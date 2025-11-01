@@ -25,9 +25,9 @@ Je vise à obtenir à long terme les certifications **eJPT**, **CEH**, puis **OS
 ---
 
 ##  Premiers projets
-🔹 **TryHackMe Labs** — suivi de mon apprentissage (write-ups à venir)  
-🔹 **Scripts simples en Python / Bash** — premiers tests d’automatisation (à venir)  
-🔹 **Rapport de pentest fictif** — création d’un modèle professionnel (en préparation)
+- **TryHackMe Labs** — suivi de mon apprentissage (write-ups à venir)  
+- **Scripts simples en Python / Bash** — premiers tests d’automatisation (à venir)  
+- **Rapport de pentest fictif** — création d’un modèle professionnel (en préparation)
 
 ---
 
@@ -40,7 +40,7 @@ Badges : *(bientôt disponibles)*
 ##  Me contacter
 - Email : **gabintchepeyou@gmail.com**  
 - GitHub :  https://github.com/tchepeyou  
-- LinkedIn : *(ajouter ton lien quand prêt)*
+- LinkedIn : *(...)*
 
 ---
 
