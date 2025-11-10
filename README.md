@@ -40,7 +40,8 @@ Badges : *(bientôt disponibles)*
 ##  Me contacter
 - Email : **gabintchepeyou@gmail.com**  
 - GitHub :  https://github.com/tchepeyou  
-- LinkedIn : *(...)*
+- LinkedIn : *www.linkedin.com/in/
+gabin-tchepeyou*
 
 ---
 
